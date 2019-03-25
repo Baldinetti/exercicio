@@ -29,3 +29,5 @@ class Aluno:
 >>>>>>> dev2
         
         
+
+# classe que define os parametros nome e ra 
