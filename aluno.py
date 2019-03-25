@@ -16,3 +16,5 @@ class Aluno:
         
         
         
+
+# classe que define os parametros nome e ra 
